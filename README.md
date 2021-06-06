@@ -6,7 +6,7 @@ A sequence of numbers is called a zig-zag sequence if the differences between su
 
 For example, 1,7,4,9,2,5 is a zig-zag sequence because the differences (6,-3,5,-7,3) are alternately positive and negative. In contrast, 1,4,7,2,5 and 1,7,4,5,5 are not zig-zag sequences, the first because its first two differences are positive and the second because its last difference is zero.
 
-In this problem, we have to compute the longest zig-zag sebsequence using Dynamic Programming given a sequence of n integers as input.
+In this problem, we have to compute the longest zig-zag subsequence using Dynamic Programming given a sequence of n integers as input.
 
 ## Approach
 
